@@ -1,22 +1,30 @@
 # 💫 About Me:
-🎓 B.Tech in Artificial Intelligence & Data Science | 💻 Python & SQL Enthusiast  
-💡 Passionate about creative coding, learning new technologies, and building solutions with AI.  
-📚 Currently in my second year, focusing on enhancing my skills and knowledge in programming and AI.  
+🎓 **B.Tech in Artificial Intelligence & Data Science**  
+💻 **Python & SQL Enthusiast**  
+💡 Passionate about creative coding, learning new technologies, and building innovative solutions with AI.  
+📚 Currently in my **second year**, focusing on enhancing my skills in programming and AI applications.  
 
 ---
 
-## 🌐 Connect with Me:
-[![Behance](https://img.shields.io/badge/Behance-%23191919.svg?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/razashaikh)  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pXRrV7E5)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/razashaikh1120)  
+## 🚀 My Journey:
+- 🌱 Currently mastering **Python**, **SQL**, and **Machine Learning** concepts.
+- 💼 Participated in the **Eminence Program**, building interpersonal and professional skills like communication, team collaboration, and public speaking.
+- 🌍 Contributed to the **Global Carnival Event**, enriching my experience in teamwork and event organization.
+- 📖 Balancing academics with consistent new skills learning.
+
+---
+
+## 🌐 Connect with Me:  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jauwwad_5660)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/razashaikh)  
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
@@ -29,7 +37,21 @@
 
 ---
 
-# 📊 GitHub Stats:
+## 📂 Featured Projects:
+### 1. **AI-Powered Attendance System**
+- Developed an AI-based system using **OpenCV** and **Python** for real-time face recognition.
+- Ensured seamless database integration with **SQL** for attendance logging.
+
+### 2. **Interactive Portfolio Website**
+- Designed a responsive portfolio using **HTML**, **CSS**, and **JavaScript**.
+- Hosted the site with GitHub Pages for public access.
+
+### 3. **Stock Price Predictor**
+- Built a machine learning model using **scikit-learn** and **Pandas** to predict stock trends.
+
+---
+
+## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=razashaikh26&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </p>
@@ -39,9 +61,9 @@
 
 ---
 
-### ✍️ Favorite Developer Insight:
+## ✍️ Favorite Developer Insight:
 > **"First, solve the problem. Then, write the code."** – John Johnson
 
 ---
 
-Let me know if you'd like any additional enhancements or adjustments! 😊
+Feel free to reach out for collaborations or just a friendly chat. Let's innovate together! 😊
