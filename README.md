@@ -10,7 +10,7 @@
 - 🌱 Currently mastering **Python**, **SQL**, and **Machine Learning** concepts.
 - 💼 Participated in the **Eminence Program**, building interpersonal and professional skills like communication, team collaboration, and public speaking.
 - 🌍 Contributed to the **Global Carnival Event**, enriching my experience in teamwork and event organization.
-- 📖 Balancing academics with consistent new skills learning.
+- 📖 Balancing academics with consistent skills learning.
 
 ---
 
@@ -36,27 +36,14 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
-
-## 📂 Featured Projects:
-### 1. **AI-Powered Attendance System**
-- Developed an AI-based system using **OpenCV** and **Python** for real-time face recognition.
-- Ensured seamless database integration with **SQL** for attendance logging.
-
-### 2. **Interactive Portfolio Website**
-- Designed a responsive portfolio using **HTML**, **CSS**, and **JavaScript**.
-- Hosted the site with GitHub Pages for public access.
-
-### 3. **Stock Price Predictor**
-- Built a machine learning model using **scikit-learn** and **Pandas** to predict stock trends.
-
 ---
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razashaikh26&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jauwwad&theme=dark&hide_border=false" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=razashaikh26&theme=dark" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jauwwad&theme=dark" alt="GitHub Profile Summary" />
 </p>
 
 ---
