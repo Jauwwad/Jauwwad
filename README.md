@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Jauwwad</h1>
+
 # 💫 About Me:
 🎓 **B.Tech in Artificial Intelligence & Data Science**  
 💻 **Python & SQL Enthusiast**  
