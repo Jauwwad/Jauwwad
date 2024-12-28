@@ -177,7 +177,7 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Jauwwad&theme=nord&border_radius=4.5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=450&card_height=200"/>
+    <img src="https://streak-stats.demolab.com/?user=Jauwwad&theme=dark)](https://git.io/streak-stats"/>
   </a>
 </p>
 <p align="center">
